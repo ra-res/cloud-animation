@@ -1,4 +1,10 @@
-# Demo :
+# Animated clouds day & night version
+
+## Day
+![Day time](day-version.png)
+
+## Night
+![Night time](night-version.png)
 
 ## Setup
 
